@@ -1,7 +1,6 @@
 # ubuntu-backgrounds-trusty
 
 ![AUR version](https://img.shields.io/aur/version/ubuntu-backgrounds-trusty?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/ubuntu-backgrounds-trusty-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/ubuntu-backgrounds-trusty-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/ubuntu-backgrounds-trusty)
 
 This repository contains build files to build the Arch Linux package `ubuntu-backgrounds-trusty`. Instead of building the
